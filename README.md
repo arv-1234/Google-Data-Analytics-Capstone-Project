@@ -98,6 +98,10 @@ data_path = "/Users/yourname/Documents/cyclistic/raw/"
 - Jupyter Notebook
 
 ---
+## License / Privacy Note
 
+This capstone does **not** include any personally identifiable information.  
 Cyclistic is a fictional brand created by Google for learning purposes.  
+Raw data is hosted by Motivate International Inc. under a public license.
+ 
 Raw data is hosted by Motivate International Inc. under a public license.
