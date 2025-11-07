@@ -14,7 +14,7 @@ This repo includes:
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 
 This comes directly from the official Google Case Study instructions.  
-📄 Source: Google Case Study PDF (Cyclistic) fileciteturn0file0
+📄 Source: Google Case Study PDF (Cyclistic) 
 
 ---
 
